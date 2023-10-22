@@ -29,5 +29,3 @@ function fibsRec(number) {
 }
 let newFibsRec = fibsRec(10);
 console.log(newFibsRec);
-
-//mergeSort
